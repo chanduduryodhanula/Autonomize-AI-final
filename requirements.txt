@@ -1,0 +1,15 @@
+# OCR and PDF handling
+pytesseract
+Pillow
+pdfplumber
+
+# NLP models (for question answering and summarization)
+transformers
+torch
+
+# Utility packages
+numpy
+regex
+
+# Testing
+pytest
